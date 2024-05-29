@@ -8,23 +8,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : TORMENTA DE NIEVE
 
-**Web:**   https://    (url github.io)
+**Web:**   https://cerulazo.github.io
 
-**Github:** https://    (url https://github.com/.... )
+**Github:** https://github.com/cerulazo/cerulazo.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Mateo Zorrilla Lara
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : En una cabaña en mitad de una fuerte tormenta de nieve, estás completamente solo en la intemperie, hasta que de pronto llaman a la puerta.
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : https://raw.githubusercontent.com/cerulazo/cerulazo.github.io/main/ICONO.png 
 
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
@@ -42,7 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![girl]([https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png](https://raw.githubusercontent.com/cerulazo/cerulazo.github.io/main/ICONO.png))
 
 # 2. Memoria del proyecto 
 
