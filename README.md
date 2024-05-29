@@ -38,7 +38,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: https://github.com/cerulazo
 - Instagram: @mzl_dibujos
 
-![girl]([https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png](https://raw.githubusercontent.com/cerulazo/cerulazo.github.io/main/ICONO.png))
 
 # 2. Memoria del proyecto 
 
