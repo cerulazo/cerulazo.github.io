@@ -47,9 +47,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Tras refugiarte de una fuerte tormenta de nieve en una pequeña cabaña, enciendes la chimenea para no morir congelado y tras un rato de tranquilidad descubres que alguien llama a la puerta, ya depende de tí abir o no, lo que llevará a varios finales.
 
-
-
-
+![storyboard](https://github.com/cerulazo/cerulazo.github.io/blob/main/STORYBOARD%20.jpg)
 
 ### 2.2. Esquema de navegación 
 
