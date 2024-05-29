@@ -39,6 +39,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: @mzl_dibujos
 
 
+![logo](https://github.com/cerulazo/cerulazo.github.io/blob/main/ICONO.png)
+
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
