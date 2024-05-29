@@ -45,9 +45,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+Tras refugiarte de una fuerte tormenta de nieve en una pequeña cabaña, enciendes la chimenea para no morir congelado y tras un rato de tranquilidad descubres que alguien llama a la puerta, ya depende de tí abir o no, lo que llevará a varios finales.
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
