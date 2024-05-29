@@ -45,20 +45,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+
 Tras refugiarte de una fuerte tormenta de nieve en una pequeña cabaña, enciendes la chimenea para no morir congelado y tras un rato de tranquilidad descubres que alguien llama a la puerta, ya depende de tí abir o no, lo que llevará a varios finales.
 
+
 ![storyboard](https://github.com/cerulazo/cerulazo.github.io/blob/main/STORYBOARD%20.jpg)
+
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![esquema](https://github.com/cerulazo/cerulazo.github.io/blob/main/ESQUEMA.png)
 
 
 # 3. Metodología
@@ -71,23 +68,15 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Me gustaba la idea de desarrollar un juego de decisiones con algo de terror y que estuviese centrado en la ambientación y en el misterio. 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a personas mayores de 10 años, sobre todo adolescentes y estudiantes.
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
@@ -104,36 +93,27 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Aún falta terminarlo, como es un juego narrativo, aunque la estructura base ya está terminada, falta añadir contenido, finales, opciones y más detalles, pero esto se centra sobre todo en la parte artística y la creación de assets para el juego que iré haciendo poco a poco.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Me ha gustado bastante el resultado inicial, tanto en el apartado visual como en el sonoro, pero jugablemente es bastante simple pues es un juego point and clic. Me gustaría entregarlo terminado pero no he tenido tiempo ya que el proyecto era bastante ambicioso, sobre todo en la parte artística, pero aún así he disfrutado bastante en la creación del juego y me he motivado con el proyecto.
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Una canción escondida que compuse con el piano.
+* Imágenes: Assets que he hecho en Krita.
+* Tipografía: No he usado ninguna tipografía de Hippani, todo el texto ha sido importado de un programa externo.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Krita
 
 
 
