@@ -76,7 +76,7 @@ Me gustaba la idea de desarrollar un juego de decisiones con algo de terror y qu
 
 **Publico / audiencia**
 
-- Orientado a personas mayores de 10 años, sobre todo adolescentes y estudiantes.
+- Orientado a personas mayores de 12 años, sobre todo adolescentes y estudiantes.
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
