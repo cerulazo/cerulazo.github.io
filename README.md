@@ -36,6 +36,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios**:
 
 - Github: https://github.com/cerulazo
+- Twitter:
 - Instagram: @mzl_dibujos
 
 
