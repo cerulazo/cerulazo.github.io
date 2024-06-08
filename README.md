@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : TORMENTA DE NIEVE
 
-**Web:**   https://cerulazo.github.io (ENLACE A LA CARPETA DE DRIVE: https://drive.google.com/drive/folders/1auinFTeHVelgY4hFlnEMOqjhqJ35K1Zi?usp=sharing)
+**Web:**   https://cerulazo.github.io (ENLACE A LA CARPETA DE DRIVE: https://drive.google.com/drive/folders/1l58tJPqc_ecqtQPF8qfFd85SmyOjox-X?usp=drive_link)
 
 **Github:** https://github.com/cerulazo/cerulazo.github.io
 
